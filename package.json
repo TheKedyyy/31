@@ -1,0 +1,17 @@
+{
+  "name": "xolenregister",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Yiit",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "wio.db": "^4.0.21"
+  }
+}
